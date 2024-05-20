@@ -1,2 +1,3 @@
 # wosapasa
- A pioneer project of ecommerce
+ A Pioneer project of ecommerce
+My personal excercise to springboot microservices.
